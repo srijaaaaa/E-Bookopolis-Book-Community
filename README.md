@@ -4,6 +4,9 @@
 E-Bookopolis is a web-based platform that allows users to engage in discussions about various types of books, read books for free, and upload their own poems or stories. The platform is designed to help writers gain recognition and attract publisher attention. This README outlines the system's design, implementation, and performance analysis.
 
 ## Features
+
+![Architecture Diagram](https://github.com/srijaaaaa/E-Bookopolis-Book-Community/blob/main/img/architecture.jpg)
+
 - **Discussion Forum:** Users can discuss different types of books.
 - **Free Reading:** Users can read books available on the platform for free.
 - **Content Upload:** Users can upload their own poems or stories to gain recognition and publisher attention.
@@ -44,12 +47,17 @@ Follow these steps to set up the project locally:
 ## Admin View
 Admins have special access to manage the website's content and user base. The following features are available to admins:
 
+![Admin Diagram](https://github.com/srijaaaaa/E-Bookopolis-Book-Community/blob/main/img/admin.png)
+
+
 - **User Management:** Admins can view and manage user profiles, including deleting or suspending accounts if necessary.
 - **Publisher Management:** Admins can add, view, and manage publishers on the platform.
 - **Content Management:** Admins can monitor and manage all uploaded content, including books, poems, and stories. They can remove any content that violates the platform's guidelines.
 
 ## User View
 Users have access to various features that enhance their experience on the platform:
+
+![user Diagram](https://github.com/srijaaaaa/E-Bookopolis-Book-Community/blob/main/img/user1.png)
 
 - **Browse and Search:** Users can search for books and other content based on their preferences.
 - **Content Interaction:** Users can like, comment, and share posts. They can also rate and review books or stories.
